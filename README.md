@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently a fourth-year student pursuing a degree in Computer Science at the Higher School of Computer Science and Technology in Bejaia, Algeria. My area of specialization is in Data Science and Artificial Intelligence.<br><br>🌱 Currently I am focused on expanding my knowledge in the fields of Data Science and Machine Learning. I am actively engaged in learning various techniques and algorithms used in data analysis, predictive modeling, and pattern recognition.<br><br>👯 I am eager to collaborate on projects related to Computer Vision. Specifically, I'm interested in projects involving image recognition, object detection, and scene understanding. I'm excited to contribute my skills in developing innovative solutions that leverage the power of computer vision technology.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wissal-mezghiche-b2abb222b/) 
 
@@ -11,12 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=wissalmezghiche&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wissalmezghiche&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wissalmezghiche&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wissalmezghiche&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wissalmezghiche&limit=5&theme=dark&combine_all_yearly_contributions=true)
